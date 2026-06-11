@@ -4,38 +4,30 @@
 
 > 开源 · 开放 · 协作 — 致力于智能制造场景，提供 AI 赋能的工业互联网解决方案
 
-融合运动控制、机器视觉、工业物联网平台与 AI 基础设施，由社区共同构建完整的智能制造生态。
+本仓库是 openIndu 社区的**治理中心**，包含社区规范、贡献流程、行为准则与项目路线图。
 
----
+## 文档索引
 
-## 核心项目 | Projects
+| 文档 | 说明 |
+| ---- | ---- |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | 如何参与贡献（Issue / PR 流程、代码规范） |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | 社区行为准则 |
+| [GOVERNANCE.md](GOVERNANCE.md) | 社区治理结构与决策机制 |
+| [ROADMAP.md](ROADMAP.md) | 产品路线图 |
+
+## 社区项目
 
 | 仓库 | 状态 | 说明 |
 | ---- | ---- | ---- |
-| [openIndu-platform](https://github.com/openIndu/openIndu-platform) | 可用 | 企业级工业物联网全栈解决方案 — 设备管理、流程控制、产品追溯一体化 |
-| openIndu-controller | 即将推出 | AI + 运动控制 — 结合 AI 算法优化工业设备运动精度与效率 |
-| openIndu-vision | 即将推出 | AI + 视觉 — 基于深度学习的工业视觉检测，实现产品质量自动化检测 |
+| [openIndu-platform](https://github.com/openIndu/openIndu-platform) | 可用 | 企业级工业物联网全栈解决方案 |
+| openIndu-controller | 即将推出 | AI + 运动控制解决方案 |
+| openIndu-vision | 即将推出 | AI + 工业视觉检测 |
 
-## 为什么选择开源？ | Why Open Source?
+## 快速参与
 
-| | |
-| --- | --- |
-| **完全开源** | 所有核心代码公开透明，支持自由使用、修改和分发 |
-| **社区驱动** | 由全球开发者共同参与建设，持续迭代优化 |
-| **免费使用** | 无需授权费用，降低企业数字化转型成本 |
-| **开放协作** | 欢迎提交 Issue 和 PR，共同打造工业互联网生态 |
+1. 阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解贡献流程
+2. 在对应仓库提交 Issue（Task / Feature / Bug）
+3. Fork → 开发 → 提交 Pull Request
+4. 参与 [GitHub Discussions](https://github.com/openIndu/community/discussions) 讨论方向
 
-## 快速开始 | Quick Start
-
-- 官网：[www.openindu.com](https://www.openindu.com)
-- 文档：[工业互联网平台文档](https://www.openindu.com/docs)
-- Gitee 镜像：[gitee.com/openIndu](https://gitee.com/openIndu)
-
-## 参与贡献 | Contributing
-
-欢迎任何形式的贡献——无论是提交 Issue、发起 PR，还是完善文档。  
-请查看本仓库的 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细的参与方式。
-
----
-
-© 2026 openIndu Community · [www.openindu.com](https://www.openindu.com)
+官网：[www.openindu.com](https://www.openindu.com)
