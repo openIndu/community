@@ -19,9 +19,9 @@
 
 | 仓库 | 状态 | 说明 |
 | ---- | ---- | ---- |
-| [openIndu-platform](https://github.com/openIndu/openIndu-platform) | 可用 | 企业级工业物联网全栈解决方案 |
-| openIndu-controller | 即将推出 | AI + 运动控制解决方案 |
-| openIndu-vision | 即将推出 | AI + 工业视觉检测 |
+| [openindu-platform](https://github.com/openIndu/openindu-platform) | 可用 | 企业级工业物联网全栈解决方案 |
+| openindu-controller | 即将推出 | AI + 运动控制解决方案 |
+| openindu-vision | 即将推出 | AI + 工业视觉检测 |
 
 ## 快速参与
 
