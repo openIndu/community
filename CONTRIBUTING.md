@@ -8,6 +8,7 @@
 | ---- | ---- |
 | 提交 Issue | 报告 Bug、提出功能建议、创建任务 |
 | 提交 PR | 修复 Bug、开发新功能、完善文档 |
+| **贡献数据** | 电气模组模板、品牌映射、IO 表、工艺参数、缺陷图谱——**不需要会写代码**，见下节 |
 | 参与讨论 | GitHub Discussions 分享经验与想法 |
 
 ## Issue 规范
@@ -35,6 +36,22 @@
 4. 推送到你的 Fork，发起 Pull Request 到目标仓库 `main` 分支
 5. 填写 PR 模板，关联相关 Issue
 6. 等待 Maintainer Review，根据反馈修改
+
+## 贡献数据（模板 / 参数 / 映射表）
+
+openIndu 最需要的贡献不只是代码，还有**数据条目**：电气模组模板、品牌映射、
+IO 表样例、工艺参数、缺陷图谱、PLC 程序片段。这类贡献不需要你是软件开发者——
+在 GitHub 网页上改一个文件就能发起 PR。
+
+这类贡献落在 **[openIndu-studio](https://github.com/openIndu/openIndu-studio)**。
+该仓的贡献指南同时写明了**贡献数据的归属边界**（哪些永久免费、什么才可能成为付费内容、
+混合贡献如何拆分）与**签署要求（DCO）**：
+
+- [CONTRIBUTING.md](https://github.com/openIndu/openIndu-studio/blob/main/CONTRIBUTING.md) — English
+- [CONTRIBUTING_ZH.md](https://github.com/openIndu/openIndu-studio/blob/main/CONTRIBUTING_ZH.md) — 中文
+
+> 归属条款以上述仓内文件为准，**本文不复述**——同一套规则在两处各写一份必然漂移，
+> 而这套规则的价值恰恰在于「贡献者当时看到的是什么」。
 
 ## 代码规范
 
